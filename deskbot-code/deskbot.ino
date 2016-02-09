@@ -2,7 +2,6 @@
 // The basic difference here is that we made it work with a Particle relay shield instead of his custom board
 // TJ's boards are customized for GeekDesks and are very great.
 
-#include "RelayShield/RelayShield.h"
 RelayShield myRelays;
 
 int trigPin = D1;
