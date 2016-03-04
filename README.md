@@ -89,4 +89,4 @@ Create a Google Calendar called "deskbot" or "standing desk" or something. It do
 
 ## Step 8: Attach to Desk
 
-Screw the box into your desk, with the ping sensor facing down. Make sure that the ping sensor isn't pointing at anything. Enjoy.
+Screw the box into your desk, with the ping sensor facing down. Make sure that the ping sensor isn't blocked by anything. Enjoy.
