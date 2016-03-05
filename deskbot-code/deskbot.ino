@@ -96,7 +96,7 @@ void goUp() {
 	Serial.print("Going up to ");
 	Serial.println(targetCm);
 	stop();
-	myRelays.on(2);
+	myRelays.on(1);
 	movingUp = true;
 	movingStartTime = millis();
 }
@@ -106,7 +106,7 @@ void goDown() {
 	Serial.print("Going down to ");
 	Serial.println(targetCm);
 	stop();
-	myRelays.on(1);
+	myRelays.on(2);
 	movingDown = true;
 	movingStartTime = millis();
 }
