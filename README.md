@@ -61,11 +61,11 @@ I looped the wires underneath the Photon to make it a bit cleaner. You can do th
 
 5) Unscrew the black controller from your desk and open it up. You'll see a particular arrangement of wires in there. This is sort of a crazy arrangement, just take my word for it and wire it like this:
 
-Magic wiring!
-
+```
 |   |   |       |   |   |
 bw      yw      bw      yw
 +   -               -   +
+```
 
 6) Flip the whole relay over and put it in the bottom part of the deskbot case. You can wrap the ping sensor around the back of the relay shield so that it is technically above the shield, facing downward into the two large holes exposing its sensors. Center the wires in the exit tracts cut in front of relays 1 and 2 and close the box.
 
